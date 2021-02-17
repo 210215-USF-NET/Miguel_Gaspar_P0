@@ -1,1 +1,2 @@
-# Miguel_Gaspar_P0
+# StoreAppTemplate
+Template for the .NET P0 Store App
